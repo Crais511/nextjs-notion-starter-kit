@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lastron',
-  domain: 'https://chiseled-emperor-d81.notion.site/28329b5e114043f7834386d54a8f794f',
+  domain: 'http:www.lastron.top/',
   author: 'Lstron',
 
   // open graph metadata (optional)
