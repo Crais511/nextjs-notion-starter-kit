@@ -6,12 +6,12 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: lastron,
 
   // basic site info (required)
   name: 'Lastron',
   domain: 'www.lastron.top/',
-  author: 'Lstron',
+  author: 'Lastron',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
