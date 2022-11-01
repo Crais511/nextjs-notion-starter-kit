@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lastron',
-  domain: 'http:www.lastron.top/',
+  domain: 'www.lastron.top/',
   author: 'Lstron',
 
   // open graph metadata (optional)
