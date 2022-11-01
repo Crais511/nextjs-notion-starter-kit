@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '28329b5e114043f7834386d54a8f794f',
+  rootNotionPageId: '1-28329b5e114043f7834386d54a8f794f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lastron',
-  domain: 'www.lastron.top/',
+  domain: 'https://www.notion.so/lastron/1-28329b5e114043f7834386d54a8f794f',
   author: 'Lastron',
 
   // open graph metadata (optional)
